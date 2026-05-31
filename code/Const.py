@@ -3,7 +3,7 @@ WIN_HEIGHT = 324
 
 COLOR_RED = (255,0,0)
 COLOR_WHITE = (255,255,255)
+COLOR_GREEN = (0,255,0)
 
-MENU_OPTION = ("one",
-               "two",
-               "three")
+MENU_OPTION = ("Start",
+               "quit")
